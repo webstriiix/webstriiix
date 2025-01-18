@@ -1,6 +1,13 @@
 # 💫 About Me:
 
-I am a junior programmer with a strong interest in software engineering especially for system programming and kernel. In the field of computer technology, I am eager to learn, enjoy taking on challenges, and am very interested in learning new things. My experience includes several web development projects and terminal app, both front-end and back-end for the web development. I create few simple terminal app using rust and C and my most love project is create discord bot with discord API and CI am a junior programmer with a strong interest in software engineering especially for system programming and kernel. In the field of computer technology, I am eager to learn, enjoy taking on challenges, and am very interested in learning new things. My experience includes several web development projects and terminal app, both front-end and back-end for the web development. I create few simple terminal app using rust and C and my most love project is create discord bot with discord API and C
+I’m a junior programmer passionate about software engineering, particularly system programming and kernel development. I love learning new technologies, taking on challenges, and continuously improving my skills in the field of computer technology.
+
+My experience includes:
+
+Web development (both front-end and back-end)
+Building simple terminal applications using Rust and C
+Developing a Discord bot using the Discord API and C (one of my favorite projects!)
+I'm always eager to explore new technologies and contribute to exciting projects. Let's connect and build something awesome! 🚀
 
 ## 🌐 Socials:
 
