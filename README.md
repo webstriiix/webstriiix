@@ -19,8 +19,7 @@ I'm always eager to explore new technologies and contribute to exciting projects
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=webstriiix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=webstriiix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
