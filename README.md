@@ -87,14 +87,3 @@ REST API with JWT authentication, role-based access control, and CRUD for users 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webstriix/)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=webstriiix&theme=dark&show_icons=true&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webstriiix&theme=dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=webstriiix&theme=dark&hide_border=true" />
-</p>
