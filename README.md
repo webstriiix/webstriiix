@@ -43,20 +43,6 @@ I'm open to remote full-time or contract work in Rust backend, systems programmi
 **Result:** Replaces manual dashboard entry for 30+ models with a single, repeatable command.
 `Rust` `Tokio` `Reqwest` `Clap` `Serde`
 
-<!-- TODO: repo ini belum punya README; tambah README + demo singkat (config in, diff out) -->
-
-### [Aksara Auth API](https://github.com/The-Aksara/aksara-backend)
-**Problem:** A web dApp needed a clean identity layer that connects email login with on-chain wallet bindings.
-**Solution:** An Actix Web API with Google OAuth 2.0 login, user identity in PostgreSQL, and Solana (Phantom) wallet binding.
-
-- Google OAuth 2.0 callback flow
-- Phantom wallet association per user
-- Diesel ORM + PostgreSQL with migrations
-- Hosted on Shuttle
-
-**Result:** Auth service for the Aksara dApp. <!-- VERIFY: repo bilang "hosted on Shuttle"; konfirmasi apakah sudah live production -->
-`Rust` `Actix Web` `Diesel` `PostgreSQL` `Google OAuth 2.0` `Solana`
-
 ### [News API](https://github.com/webstriiix/news-api-rust)
 **Problem:** A small content platform still needs secure auth, role-based access, and clean CRUD endpoints.
 **Solution:** A REST API for users, categories, and news articles with JWT authentication and role-based access control.
